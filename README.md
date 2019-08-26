@@ -1,5 +1,5 @@
 # BAAHUBALI -THE MOVIE
-Baahubali is an indian's biggest motion picture.This page gives the information about the movie and the characters involved in it.
+Baahubali is an India's biggest motion picture.This page gives the information about the movie and the main characters involved in it.
 
 ## CAST:
 1. Prabhas as Baahubali
@@ -16,13 +16,14 @@ Baahubali is an indian's biggest motion picture.This page gives the information 
 
 ## Description About Characters:
 - Baahubali:
-Bahubali is the king of mahishmathi and he is the younger brother of bhallaladeva. Prabhas played a dual role in this movie as Amarendra bahubali, Sivudu. The story revolves around who takes the power to control Mahismathi Kingdom.
+Bahubali is the king of mahishmathi and he is the younger brother of bhallaladeva. Prabhas played a dual role in this movie as Amarendra bahubali, Mahendra Bahubali. The story revolves around who takes the power to control Mahismathi Kingdom.
 
 - Devasena:
-Devasena is the queen of mahishmathi
+Devasena is the lead female character of the Baahubali and also princess of Kuntala Kingdom. Devasena is a skilled fighter and a great archer. She is brave and bold and believes firmly in her decisions. She practices a lot to improve her martial skills. Devasena marries Baahubali, with whom she has a child, Mahendra Baahubali.
 
 -Bhallaladeva:
-
+Bhallaladeva played a antagonist role in this movie and he is son of Bijjaladeva. He is envious of Amarendra Baahubali. Bhallaladeva takes Devasena as a prisoner and frequently taunts her in her captive. 
+ 
 ## References:
 
 
