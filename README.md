@@ -1,7 +1,7 @@
 # BAAHUBALI -THE MOVIE
 Baahubali is an India's biggest motion picture. There are 2 parts. This page gives the information about the movie and the main characters involved in it.
-  1. Baahubali -The Begining.
-  2. Baahubali -The conclusion..
+1. Baahubali -The Begining.
+2. Baahubali -The conclusion..
 
 ## CAST:
 
