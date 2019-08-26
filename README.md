@@ -5,17 +5,17 @@ Baahubali is an India's biggest motion picture. There are 2 parts. This page giv
 
 ## CAST:
 
-   1.Prabhas as Baahubali
+1.Prabhas as Baahubali
 
-   ![](Baahubali.jpeg)
+  ![](Baahubali.jpeg)
 
-   2.Anushka Shetty as Devasena
+ 2.Anushka Shetty as Devasena
 
-   ![](1495622679_anushka-shetty-baahubali.jpg)
+  ![](1495622679_anushka-shetty-baahubali.jpg)
 
-   3.Rana as bhallaladeva
+ 3.Rana as bhallaladeva
 
-   ![](baahubali.jpg)
+  ![](baahubali.jpg)
 
 ## Description About Characters:
 - Baahubali:
