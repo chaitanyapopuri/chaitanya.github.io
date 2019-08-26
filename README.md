@@ -26,6 +26,6 @@ Devasena is the lead female character of the Baahubali and also princess of Kunt
 Bhallaladeva played a antagonist role in this movie and he is son of Bijjaladeva. He is envious of Amarendra Baahubali. Bhallaladeva takes Devasena as a prisoner and frequently taunts her in her captive. 
  
 ## References:
-[Baahubali wikipedia page](https://en.wikipedia.org/wiki/Baahubali:_The_Beginning)
+- [Baahubali wikipedia page](https://en.wikipedia.org/wiki/Baahubali:_The_Beginning)
 
-[Baahubali Movie](https://www.youtube.com/watch?v=nI7xZM8M3FE)
+- [Baahubali Movie](https://www.youtube.com/watch?v=nI7xZM8M3FE)
