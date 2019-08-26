@@ -1,6 +1,7 @@
 # BAAHUBALI -THE MOVIE
-Baahubali is an India's biggest motion picture.This page gives the information about the movie and the main characters involved in it.
-
+Baahubali is an India's biggest motion picture. There are 2 parts. This page gives the information about the movie and the main characters involved in it.
+1. Baahubali -The Begining
+2. Baahubali -The conclusion
 ## CAST:
 1. Prabhas as Baahubali
 
@@ -26,4 +27,5 @@ Bhallaladeva played a antagonist role in this movie and he is son of Bijjaladeva
  
 ## References:
 [Baahubali wikipedia page](https://en.wikipedia.org/wiki/Baahubali:_The_Beginning)
+
 [Baahubali Movie](https://www.youtube.com/watch?v=nI7xZM8M3FE)
