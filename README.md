@@ -13,7 +13,7 @@ Baahubali is an India's biggest motion picture. There are 2 parts. This page giv
 
    ![](1495622679_anushka-shetty-baahubali.jpg)
 
-   3 Rana as bhallaladeva
+   3. Rana as bhallaladeva
 
    ![](baahubali.jpg)
 
