@@ -1,7 +1,7 @@
 # BAAHUBALI -THE MOVIE
 Baahubali is an indian's biggest motion picture.This page gives the information about the movie and the characters involved in it.
 
-## CHARACTERS:
+## CAST:
 1. Prabhas as Baahubali
 
 ![](Baahubali.jpeg)
@@ -14,7 +14,5 @@ Baahubali is an indian's biggest motion picture.This page gives the information 
 
 ![](https://github.com/chaitanyapopuri/chaitanya.github.io/blob/master/baahubali.jpg)
 
-4. Nasser as Bijjaladeva
-
-5. Ramya Krishnan as Sivagami
+## Description About Characters:
 
