@@ -5,7 +5,7 @@ Baahubali is an India's biggest motion picture. There are 2 parts. This page giv
 
 ## CAST:
 
-  1.Prabhas as Baahubali
+  1. Prabhas as Baahubali
 
 ![](Baahubali.jpeg)
 
