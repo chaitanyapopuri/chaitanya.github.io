@@ -21,7 +21,7 @@ Bahubali is the king of mahishmathi and he is the younger brother of bhallaladev
 - Devasena:
 Devasena is the lead female character of the Baahubali and also princess of Kuntala Kingdom. Devasena is a skilled fighter and a great archer. She is brave and bold and believes firmly in her decisions. She practices a lot to improve her martial skills. Devasena marries Baahubali, with whom she has a child, Mahendra Baahubali.
 
--Bhallaladeva:
+- Bhallaladeva:
 Bhallaladeva played a antagonist role in this movie and he is son of Bijjaladeva. He is envious of Amarendra Baahubali. Bhallaladeva takes Devasena as a prisoner and frequently taunts her in her captive. 
  
 ## References:
